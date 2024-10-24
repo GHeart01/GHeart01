@@ -6,10 +6,10 @@
 - 📭 How to reach me
   GeraltHeart01@gmail.com
   
-- 👜Linkedin:
+- 🌐 Linkedin:
   https://www.linkedin.com/in/geraltheart001/
 
-- 🖥️Website:
+- 🖥️ Website:
   IN PROGRESS
 
 
