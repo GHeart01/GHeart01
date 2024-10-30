@@ -9,8 +9,6 @@
 - 🌐 Linkedin:
   https://www.linkedin.com/in/geraltheart001/
 
-- 🖥️ Website:
-geraltheart.com (not yet available)
-  IN PROGRESS
+- 🖥️ Website: https://geraltheart.com
 
 
