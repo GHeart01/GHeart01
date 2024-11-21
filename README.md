@@ -1,16 +1,16 @@
-# Hello
+# 👋 Hi, I’m Geralt Heart (@GHeart01)
 
-- 👋 I’m Geralt Heart @GHeart01
+Welcome to my GitHub profile! I'm passionate about programming and always eager to collaborate, learn, and contribute to exciting projects.
 
-- 😀 I’m looking to collaborate on
-  ANYTHING! I would love to work on projects with others in C++, python, Swift, or anything else.
-  
-- 📭 How to reach me
-  https://geraltheart.com/contact
-  
-- 🌐 Linkedin:
-  https://www.linkedin.com/in/geraltheart001/
+## About Me  
+- 🔧 **Programming Enthusiast**: Skilled in C++, Python, Swift, and open to exploring other languages and frameworks.  
+- 💡 **Looking to Collaborate**: I’m enthusiastic about working on creative and impactful projects. Let’s build something amazing together!  
 
-- 🖥️ Website: https://geraltheart.com
+## How to Reach Me  
+- 🌐 **Website**: [geraltheart.com](https://geraltheart.com)  
+  Explore my portfolio, projects, and more. Check out the [Contact page](https://geraltheart.com/contact) to get in touch!  
+- 💼 **LinkedIn**: [linkedin.com/in/geraltheart001/](https://www.linkedin.com/in/geraltheart001/)  
 
+---
 
+Feel free to connect with me or share any interesting project ideas. Let’s make coding fun and impactful! 🚀  
