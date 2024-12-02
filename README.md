@@ -6,6 +6,10 @@ Welcome to my GitHub profile! I'm passionate about programming and always eager 
 - 🔧 **Programming Enthusiast**: Skilled in C++, Python, Swift, and open to exploring other languages and frameworks.  
 - 💡 **Looking to Collaborate**: I’m enthusiastic about working on creative and impactful projects. Let’s build something amazing together!  
 
+## Languages
+
+## Frameworks
+
 ## How to Reach Me  
 - 🌐 **Website**: [geraltheart.com](https://geraltheart.com)  
   Explore my portfolio, projects, and more. Check out the [Contact page](https://geraltheart.com/contact) to get in touch!  
