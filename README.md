@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about programming and always eager 
 
 ## How to Reach Me  
 - 🌐 **Website**: [geraltheart.com](https://geraltheart.com)  
-  Explore my portfolio, projects, and more. Check out the [Contact page](https://geraltheart.com/contact) to get in touch!  
+  Explore my portfolio, projects, and more. Check out the [Contact page](https://geraltheart.com/contact) or directly at emailme@geraltheart.com to get in touch!  
 - 💼 **LinkedIn**: [linkedin.com/in/geraltheart001/](https://www.linkedin.com/in/geraltheart001/)  
 
 ---
