@@ -3,10 +3,15 @@
 Welcome to my GitHub profile! I'm passionate about programming and always eager to collaborate, learn, and contribute to exciting projects.
 
 ## About Me  
-- 🔧 **Programming Enthusiast**: Skilled in C++, Python, Swift, and open to exploring other languages and frameworks.  
+- 🔧 **Programming Enthusiast**: Skilled in C++, Python, HTML, CSS, JS, and open to exploring other languages and frameworks.
+- 🔨 **Cureently Working on**: TensorflowJS, ReactJS, pyTorch
 - 💡 **Looking to Collaborate**: I’m enthusiastic about working on creative and impactful projects. Let’s build something amazing together!  
 
 ## Languages
+Web building: HTML, CSS, JS
+Programming: Python, C, C++
+AI: TensorflowJS, pyTorch
+
 
 ## Frameworks
 
