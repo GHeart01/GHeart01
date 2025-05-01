@@ -8,8 +8,10 @@ Welcome to my GitHub profile! I'm passionate about programming and always eager 
 - 💡 **Looking to Collaborate**: I’m enthusiastic about working on creative and impactful projects. Let’s build something amazing together!  
 
 ## Languages
-Web building: HTML, CSS, JS
+Web building: HTML, CSS, JS, CloudFlare, EmailJS
+
 Programming: Python, C, C++
+
 AI: TensorflowJS, pyTorch
 
 
