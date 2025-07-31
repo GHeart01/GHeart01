@@ -24,4 +24,4 @@ AI: TensorflowJS, pyTorch, sklearn
 
 ---
 
-Feel free to connect with me or share any interesting project ideas. Let’s make coding fun and impactful! 🚀  
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=GHeart01)
