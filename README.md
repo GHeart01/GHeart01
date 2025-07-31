@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about programming and always eager 
 
 ## About Me  
 - 🔧 **Programming Enthusiast**: Skilled in C++, Python, HTML, CSS, JS, and open to exploring other languages and frameworks.
-- 🔨 **Cureently Working on**: TensorflowJS, ReactJS, pyTorch
+- 🔨 **Cureently Working on**: TensorFlow, ReactJS, pyTorch
 - 💡 **Looking to Collaborate**: I’m enthusiastic about working on creative and impactful projects. Let’s build something amazing together!  
 
 ## Languages
@@ -12,7 +12,7 @@ Web building: HTML, CSS, JS, CloudFlare, EmailJS
 
 Programming: Python, C, C++
 
-AI: TensorflowJS, pyTorch, scikit-learn
+AI: TensorFlow, pyTorch, scikit-learn
 
 
 ## Frameworks
