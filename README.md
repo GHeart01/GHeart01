@@ -26,4 +26,4 @@ AI: TensorFlow, pyTorch, scikit-learn
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=GHeart01)
 
-![visitors](https://img.shields.io/endpoint?url=https://vu-mi.com/api/v1/views?id=<GHeart01>)
+![visitors](https://img.shields.io/endpoint?url=https://vu-mi.com/api/v1/views?id=GHeart01)
