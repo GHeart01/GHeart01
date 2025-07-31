@@ -12,7 +12,7 @@ Web building: HTML, CSS, JS, CloudFlare, EmailJS
 
 Programming: Python, C, C++
 
-AI: TensorflowJS, pyTorch, sklearn
+AI: TensorflowJS, pyTorch, scikit-learn
 
 
 ## Frameworks
