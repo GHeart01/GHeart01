@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0e75b6&lines=👋+Hello,+I'm+Geralt+Heart;@GHeart01!)](https://git.io/typing-svg)
+
 # 👋 Hi, I’m Geralt Heart (@GHeart01)
 
 Welcome to my GitHub profile! I'm passionate about programming and always eager to collaborate, learn, and contribute to exciting projects.
@@ -24,7 +26,5 @@ AI: TensorFlow, pyTorch, scikit-learn
 
 ---
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=GHeart01)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0e75b6&lines=👋+Welcome!;Profile+Views:+1234+and+counting!)](https://git.io/typing-svg)
