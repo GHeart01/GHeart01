@@ -25,3 +25,6 @@ AI: TensorFlow, pyTorch, scikit-learn
 ---
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=GHeart01)
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0e75b6&lines=👋+Welcome!;Profile+Views:+1234+and+counting!)](https://git.io/typing-svg)
