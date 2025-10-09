@@ -1,6 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0e75b6&lines=👋+Hello,+I'm+Geralt+Heart;@GHeart01!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffffff&lines=👋+Hello,+I'm+Geralt+Heart;@GHeart01!)](https://git.io/typing-svg)
 
-# 👋 Hi, I’m Geralt Heart (@GHeart01)
 
 Welcome to my GitHub profile! I'm passionate about programming and always eager to collaborate, learn, and contribute to exciting projects.
 
