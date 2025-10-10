@@ -1,3 +1,4 @@
+<div>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffffff&repeat=false&lines=👋+Hello,+I'm+Geralt+Heart)](https://git.io/typing-svg)
 
 <pre>
@@ -21,5 +22,5 @@
                                  <b>Discord:</b> ..................................................... g.heart.
                                  <b>Website:</b> .............................................. geraltheart.com
 </pre>
-
+</div>
 
