@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffffff&&duration=3000&lines=👋+Hello,+I'm+Geralt+Heart;@GHeart01)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffffff&&duration=3000&center=true&lines=👋+Hello,+I'm+Geralt+Heart;@GHeart01)](https://git.io/typing-svg)
 
 
 Welcome to my GitHub profile! I'm passionate about programming and always eager to collaborate, learn, and contribute to exciting projects.
