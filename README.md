@@ -26,19 +26,6 @@ AI: TensorFlow, pyTorch, scikit-learn
 ---
 
 
-<pre>
-<span style="color:#FF2D55">            +++++++</span>
-<span style="color:#FF9500">            +++++++</span>
-<span style="color:#FFD60A">            +++++++            =================</span>
-<span style="color:#34C759">      ++++++++++++++++++       =================</span>
-<span style="color:#5AC8FA">      ++++++++++++++++++</span>
-<span style="color:#5856D6">      ++++++++++++++++++</span>
-<span style="color:#AF52DE">      ++++++++++++++++++       ==================</span>
-<span style="color:#FF2D55">            +++++++            ==================</span>
-<span style="color:#FF9500">            +++++++</span>
-<span style="color:#FFD60A">            +++++++</span>
-
-
 @GHeart01 --------------------------------------------------------------------
 
 <b>Operating Systemes:</b> ............................. Windows, MacOS, Linux
@@ -46,7 +33,9 @@ AI: TensorFlow, pyTorch, scikit-learn
 
 - Contact --------------------------------------------------------------------
 
-
+- Test Case 1: Failed
++ Test Case 2: Passed
+! Test Case 3: Warning
 
 <b>Kernel:</b> Darwin 23.6.0  
 <b>Shell:</b> zsh 2.9.0  
