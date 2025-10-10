@@ -32,10 +32,9 @@ AI: TensorFlow, pyTorch, scikit-learn
 
 
 - Contact --------------------------------------------------------------------
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#red`
 
-- Test Case 1: Failed
-+ Test Case 2: Passed
-! Test Case 3: Warning
+
 
 <b>Kernel:</b> Darwin 23.6.0  
 <b>Shell:</b> zsh 2.9.0  
