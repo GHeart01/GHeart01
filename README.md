@@ -25,7 +25,7 @@ AI: TensorFlow, pyTorch, scikit-learn
 
 ---
 
-
+<pre>
 @GHeart01 --------------------------------------------------------------------
 <b>Operating Systemes:</b> ............................. Windows, MacOS, Linux
 
