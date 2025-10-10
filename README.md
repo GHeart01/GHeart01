@@ -1,7 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffffff&&duration=3000&lines=👋+Hello,+I'm+Geralt+Heart;@GHeart01)](https://git.io/typing-svg)
-
 <pre>
-@GHeart01 ---------------------
+@GHeart01 ---
 <b>Operating Systemes:</b> ............................. Windows, MacOS, Linux
 
 <b>Languages.:</b> ................................... Python, C++, JavaScript
@@ -15,7 +13,7 @@
 <b>Libraries:</b> ........... NumPy, Pandas, Matplotlib, SciPy, Seaborn, Keras
 <b>Machine_Learning:</b> ............................ TensorFlow, scikit-learn
 
-- Contact ---------------------
+- Contact ---
 <b>Email:</b> ....................................... geraltcontacts@gmail.com
 <b>Linkedin:</b> .............................................. geraltheart001
 <b>Discord:</b> ..................................................... g.heart.
