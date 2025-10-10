@@ -16,7 +16,7 @@
 
 - Contact 
 ---
-<b>Email:</b> ....................................... geraltcontacts@gmail.com
+<b>Email:</b> ........................................ emailme@geraltheart.com
 <b>Linkedin:</b> .............................................. geraltheart001
 <b>Discord:</b> ..................................................... g.heart.
 <b>Website:</b> .............................................. geraltheart.com
