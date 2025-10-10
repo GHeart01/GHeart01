@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffffff&&duration=3000&center=true&lines=👋+Hello,+I'm+Geralt+Heart;@GHeart01)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffffff&&duration=3000&lines=👋+Hello,+I'm+Geralt+Heart;@GHeart01)](https://git.io/typing-svg)
 
 
 Welcome to my GitHub profile! I'm passionate about programming and always eager to collaborate, learn, and contribute to exciting projects.
@@ -25,5 +25,40 @@ AI: TensorFlow, pyTorch, scikit-learn
 
 ---
 
+
+<pre>
+<span style="color:#FF2D55">            +++++++</span>
+<span style="color:#FF9500">            +++++++</span>
+<span style="color:#FFD60A">            +++++++            =================</span>
+<span style="color:#34C759">      ++++++++++++++++++       =================</span>
+<span style="color:#5AC8FA">      ++++++++++++++++++</span>
+<span style="color:#5856D6">      ++++++++++++++++++</span>
+<span style="color:#AF52DE">      ++++++++++++++++++       ==================</span>
+<span style="color:#FF2D55">            +++++++            ==================</span>
+<span style="color:#FF9500">            +++++++</span>
+<span style="color:#FFD60A">            +++++++</span>
+
+
+@GHeart01 --------------------------------------------------------------------
+
+<b>Operating Systemes:</b> ............................. Windows, MacOS, Linux
+
+
+- Contact --------------------------------------------------------------------
+
+
+
+<b>Kernel:</b> Darwin 23.6.0  
+<b>Shell:</b> zsh 2.9.0  
+<b>Display:</b> Color LCD 3024x1964 @ 120 Hz (as 5120x2924 in 14" Built-in)  
+<b>GPU:</b> Apple M3 GPU 16-core  
+<b>CPU:</b> Apple M3 Pro (12-core, 8 performance, 4 efficiency)  
+<b>Memory:</b> 18 GB unified  
+<b>Disk:</b> 512 GB SSD  
+<b>Terminal:</b> AppleSystemUIFont (System), Helvetica (User)  
+<b>Font:</b> SFMono-Regular 12pt  
+<b>Power Adapter:</b> 67W  
+<b>Locale:</b> en_US.UTF-8  
+</pre>
 
 
