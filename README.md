@@ -27,26 +27,23 @@ AI: TensorFlow, pyTorch, scikit-learn
 
 
 @GHeart01 --------------------------------------------------------------------
-
 <b>Operating Systemes:</b> ............................. Windows, MacOS, Linux
 
+<b>Languages.:</b> ................................... Python, C++, JavaScript
+<b>Languages.Markdown:</b> .............................. HTML, CSS, MD, LaTeX
+<b>Languages.Database:</b> ................................. PostgreSQL, Excel
+
+<b>Software.Tools:</b> ............................. Jupyter Notebook, VS Code
+<b>Software.Frameworks:</b> .................................... React, NodeJS
+<b>Cloud:</b> ........................................ AWS Amplify, Cloudflare
+
+<b>Libraries:</b> ........... NumPy, Pandas, Matplotlib, SciPy, Seaborn, Keras
+<b>Machine_Learning:</b> ............................ TensorFlow, scikit-learn
 
 - Contact --------------------------------------------------------------------
+<b>Languages.:</b> ............................. 
 
 
-
-
-<b>Kernel:</b> Darwin 23.6.0  
-<b>Shell:</b> zsh 2.9.0  
-<b>Display:</b> Color LCD 3024x1964 @ 120 Hz (as 5120x2924 in 14" Built-in)  
-<b>GPU:</b> Apple M3 GPU 16-core  
-<b>CPU:</b> Apple M3 Pro (12-core, 8 performance, 4 efficiency)  
-<b>Memory:</b> 18 GB unified  
-<b>Disk:</b> 512 GB SSD  
-<b>Terminal:</b> AppleSystemUIFont (System), Helvetica (User)  
-<b>Font:</b> SFMono-Regular 12pt  
-<b>Power Adapter:</b> 67W  
-<b>Locale:</b> en_US.UTF-8  
 </pre>
 
 
