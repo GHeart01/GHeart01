@@ -11,8 +11,8 @@
 <b>Software.Frameworks:</b> .............................................................................. React, NodeJS
 <b>Cloud:</b> .................................................................................. AWS Amplify, Cloudflare
 
-<b>Libraries:</b> ..................................................... NumPy, Pandas, Matplotlib, SciPy, Seaborn, Keras
-<b>Machine_Learning:</b> ...................................................................... TensorFlow, scikit-learn
+<b>Libraries:</b> ............................................................ NumPy, Pandas, Matplotlib, SciPy, Seaborn
+<b>Machine_Learning:</b> ............................................................... TensorFlow, scikit-learn, Keras
               
 - Contact
 <b>Email:</b> .................................................................................. emailme@geraltheart.com
