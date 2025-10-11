@@ -2,7 +2,7 @@
 
 <pre>
 @GHeart01 
-<b>Operating Systemes:</b> ....................................................................... Windows, MacOS, Linux
+<b>Operating_Systems:</b> ....................................................................... Windows, MacOS, Linux
 <b>Languages.Programming:</b> .................................................................. Python, C++, JavaScript
 <b>Languages.Markdown:</b> ........................................................................ HTML, CSS, MD, LaTeX
 <b>Languages.Database:</b> ........................................................................... PostgreSQL, Excel
